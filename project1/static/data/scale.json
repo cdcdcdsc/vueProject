@@ -1,0 +1,79 @@
+{
+    "code": 1000,
+    "data": {
+        "banner_ads": [
+            {
+                "pic": "//s2.juancdn.com/bao/161213/f/3/584fcef9151ad1b5078b45a3_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1773495?shop_id=1581925",
+                "id": "5503",
+                "size": "750*290",
+                "title": "文体-乔丹"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161214/e/6/58511a95db01d954548b4574_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1933451?shop_id=1822922",
+                "id": "5506",
+                "size": "750*290",
+                "title": "男鞋-鞋柜"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161214/f/1/58511a3ddb01d998548b4576_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1761437?shop_id=1402906",
+                "id": "5505",
+                "size": "750*290",
+                "title": "配饰-红蜻蜓"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161214/c/a/585119c5151ad1fe5a8b45b6_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1755427?shop_id=1491967",
+                "id": "5504",
+                "size": "750*290",
+                "title": "箱包-波斯丹顿"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161213/c/3/584fd1c5151ad1920d8b4595_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1563422?shop_id=1461974",
+                "id": "5487",
+                "size": "750*290",
+                "title": "男装-VIISHOW"
+            }
+        ],
+         "banner_ads1": [
+            {
+                "pic": "//s2.juancdn.com/bao/161213/f/3/584fcef9151ad1b5078b45a3_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1773495?shop_id=1581925",
+                "id": "5503",
+                "size": "750*290",
+                "title": "文体-乔丹"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161214/e/6/58511a95db01d954548b4574_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1933451?shop_id=1822922",
+                "id": "5506",
+                "size": "750*290",
+                "title": "男鞋-鞋柜"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161214/f/1/58511a3ddb01d998548b4576_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1761437?shop_id=1402906",
+                "id": "5505",
+                "size": "750*290",
+                "title": "配饰-红蜻蜓"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161214/c/a/585119c5151ad1fe5a8b45b6_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1755427?shop_id=1491967",
+                "id": "5504",
+                "size": "750*290",
+                "title": "箱包-波斯丹顿"
+            },
+            {
+                "pic": "//s2.juancdn.com/bao/161213/c/3/584fd1c5151ad1920d8b4595_750x290.jpg?iopcmd=convert&Q=80&dst=jpg",
+                "url": "http://m.juanpi.com/brand/1563422?shop_id=1461974",
+                "id": "5487",
+                "size": "750*290",
+                "title": "男装-VIISHOW"
+            }
+        ],
+    }
+}
